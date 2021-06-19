@@ -1,0 +1,8 @@
+{
+  "comandos": [
+    {
+      "comando": "!mruv",
+      "texto": " MRUV\n        Características do MRUV:\n\n        -A direção que o móvel se movimenta será obrigatoriamente constante e sem mínima mudança\n\n        -As variações sofridas no modulo da velocidade será sempre uniforme em um intervalo de tempo igual\n\n        Ex: (com uma aceleração média de 5m/s² o móvel aumentará 5m/s na sua velocidade por segundo"
+    }
+  ]
+}
